@@ -1,0 +1,9 @@
+@font-face{ /*para llamar la fuentes desde la carpeta*/
+	font-family: sourcesans; /*nombre para llamar la fuente en css*/
+	src:url(../fuentes/Source_Sans_Pro/SourceSansPro-Regular.ttf);
+}
+
+@font-face{
+	font-family: sourcesans-light;
+	src:url(../fuentes/Source_Sans_Pro/SourceSansPro-Light.ttf);
+}
